@@ -1,3 +1,10 @@
+# ThreeJS Experimentation
+
+Using this boilerplate to test out how threejs works
+
+Original text below for setup and credits 
+
+
 # Three.js Starter
 Courtesy of Bruno Simon of https://threejs-journey.xyz/
 
